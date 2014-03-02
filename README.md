@@ -43,3 +43,7 @@ The patterns can be structured in roughly three different categories. Please cli
 * [Strategy](Strategy) [:notebook:](http://en.wikipedia.org/wiki/Strategy_pattern)
 * [TemplateMethod](TemplateMethod) [:notebook:](http://en.wikipedia.org/wiki/Template_method_pattern)
 * [Visitor](Visitor) [:notebook:](http://en.wikipedia.org/wiki/Visitor_pattern)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sinanislekdemir/cpp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
